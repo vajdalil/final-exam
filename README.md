@@ -1,5 +1,3 @@
-# final-exam
-
 # Foundation requirements
 
 ## Accomplishments
