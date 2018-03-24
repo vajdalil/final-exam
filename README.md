@@ -18,20 +18,20 @@ The student, on their own, is able to:
  -  Follow indentation and coding styleguides in their code
  -  Create variables and methods on a given specification
  -  Use conditions and loops:
-     -  Filtering
+     -  [Filtering](https://github.com/vajdalil/corsac-basic-exam/blob/master/mutual-elements/src/MutualElements.java)
      -  Finding elements or index
      -  Generating lists
      -  Checking mutiple values and counting
      -  Maping values
  -  Use object orientation:
-     -  Create and inherit classes including fields and methods on a given specification
+     -  [Create and inherit classes including fields and methods on a given specification](https://github.com/greenfox-academy/Lilla/blob/master/week-06/zoo/src/main/java/animals/Bird.java)
      -  Understanding the difference between classes and objects
      -  Instantiating and using objects
      -  Understanding "this" keyword
  -  Handle errors and exceptions
  -  Determine the output of expressions
  -  Explain their own code
- -  Write unit tests for functions and methods
+ -  [Write unit tests for functions and methods](https://github.com/vajdalil/corsac-basic-exam/blob/master/mutual-elements/Test/MutualElementsTest.java)
  
  # Backend Orientation Exam Competencies
 
@@ -106,9 +106,9 @@ The student, on their own, is able to:
 
 ## Endpoint tests
 
-- able to make difference between unit test and integration test
+- able to make difference between [unit test](https://github.com/greenfox-academy/nguyenannie/blob/master/week-07/day-03/Anagram_test/tests/AnagramTest.java) and [integration test](https://github.com/vajdalil/pallida-orientation-exam/blob/master/src/test/java/com/greenfoxacademy/exam/RestControllerTest.java)
 - create endpoint test
-  - with the help of a mock server
+  - [with the help of a mock server](https://github.com/greenfox-academy/huli-kalendaryo-backend/blob/dev/src/test/java/com/greenfoxacademy/opal/kalendaryo/kalendaryo/MergedCalControllerTest.java)
   
   # Final exam requirements
 
