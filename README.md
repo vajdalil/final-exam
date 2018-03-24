@@ -127,7 +127,7 @@ The student, on their own, is able to:
      -  Creating a pull request
  -  Understand API documentation
  -  Understand token based authorization
- -  Refactor code:
+ -  [Refactor code:](https://github.com/greenfox-academy/Lilla/tree/master/dojo/tennisClub)
      -  Create meaningful names for methods, classes and variables
      -  Split bigger functions to smaller ones
      -  Separate functionalities to different files
