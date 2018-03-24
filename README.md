@@ -37,7 +37,7 @@ The student, on their own, is able to:
 
 ## Interfaces and abstract classes
 
-- usage of interfaces and abstract classes
+- usage of [interfaces](https://github.com/greenfox-academy/huli-kalendaryo-backend/tree/dev/src/main/java/com/greenfoxacademy/opal/kalendaryo/kalendaryo/service/authorization) and [abstract classes](https://github.com/greenfox-academy/Lilla/tree/master/week-06/instrument/src/main/java/music)
 - understanding the difference between interfaces and abstract classes
 - understand when to use interface and when to use super class
 
@@ -55,18 +55,18 @@ The student, on their own, is able to:
 
 ## 3rd party libraries
 
-- able to add and use libraries
+- [able to add and use libraries](https://github.com/greenfox-academy/huli-kalendaryo-backend/blob/dev/build.gradle)
 - find documentation and usage examples
 
 ## Backend Framework
 
-- creating a Web Application with the given backend framework e.g. Spring/ASP.Net Core
+- [creating a Web Application with the given backend framework e.g. Spring/ASP.Net Core](https://github.com/vajdalil/chat_app)
 - understanding the used components
 - find documentation and usage examples
 - understanding the framework and the application as web backend
 - able to create examples for competencies of web backend
-- using a templating system e.g. Thymeleaf/Razor Pages
-- able to use the framework's special Dependency Injection system
+- [using a templating system e.g. Thymeleaf/Razor Pages](https://github.com/vajdalil/chat_app/blob/master/src/main/resources/templates/index.html)
+- [able to use the framework's special Dependency Injection system](https://github.com/vajdalil/chat_app/blob/master/src/main/java/com/greenfoxacademy/chat/controllers/WebController.java)
 - usage of the framework's IoC container
 - able to alter basic configurations
 - understanding the flow of HTTP
@@ -76,9 +76,9 @@ The student, on their own, is able to:
 - understanding and usage of basic SQL commands
   - `select`, `insert`, `update`, `delete`
 - connecting database to backend application
-  - database framework configuration
+  - [database framework configuration](https://github.com/greenfox-academy/huli-kalendaryo-backend/blob/dev/build.gradle)
 - understanding Object Relational Mapping
-  - with using library: JPA/EF Core
+  - [with using library: JPA/EF Core](https://github.com/greenfox-academy/huli-kalendaryo-backend/blob/dev/build.gradle)
 - connection between:
   - tables and classes
   - records and objects
@@ -100,7 +100,7 @@ The student, on their own, is able to:
 ### REST Web backend
 
 - understand what is an API and can use it
-- use JSON objects
+- [use JSON objects](https://github.com/greenfox-academy/huli-kalendaryo-backend/blob/dev/src/main/java/com/greenfoxacademy/opal/kalendaryo/kalendaryo/controllers/AuthController.java)
 - understand the concept of serialization
 - able to use Postman
 
@@ -126,7 +126,7 @@ The student, on their own, is able to:
      -  Resolving a simple merge conflict
      -  Creating a pull request
  -  Understand API documentation
- -  Understand token based authorization
+ -  [Understand token based authorization](https://github.com/greenfox-academy/huli-kalendaryo-backend/blob/dev/src/main/java/com/greenfoxacademy/opal/kalendaryo/kalendaryo/service/authorization/AuthorizeKal.java)
  -  [Refactor code:](https://github.com/greenfox-academy/Lilla/tree/master/dojo/tennisClub)
      -  Create meaningful names for methods, classes and variables
      -  Split bigger functions to smaller ones
@@ -135,7 +135,7 @@ The student, on their own, is able to:
  -  Understand base concept of hosting
  -  Deployment and continuous integration
  -  Using design patterns
- -  Integration testing
+ -  [Integration testing](https://github.com/vajdalil/pallida-retake/blob/master/src/test/java/com/greenfoxacademy/retake/controllers/ClothRestControllerTest.java)
  -  Differentiate between backend and frontend (client) functionality
 
 
@@ -166,9 +166,9 @@ The student, on their own, is able to:
 ### Mobile
 
  -  Use async structures:
-     -  Writing functions that are taking and calling callbacks
+     -  [Writing functions that are taking and calling callbacks]
  -  Understanding and using mobile framework:
-     -  Components, configuration, dependencies, extensions
+     -  [Components](), [configuration](), [dependencies](), [extensions]()
  -  Designing multiple screens
  -  Handling authorized communication with backend
 
