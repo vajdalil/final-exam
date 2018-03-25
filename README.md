@@ -21,14 +21,14 @@ The student, on their own, is able to:
      -  [Filtering](https://github.com/vajdalil/corsac-basic-exam/blob/master/mutual-elements/src/MutualElements.java)
      -  [Finding elements or index](https://github.com/greenfox-academy/Lilla/blob/master/week-05/game/src/Appearance.java)
      -  [Generating lists](https://github.com/greenfox-academy/Lilla/blob/master/week-06/day-01/comparable/src/Dominoes.java)
-     -  Checking mutiple values and counting
+     -  [Checking mutiple values and counting](https://github.com/greenfox-academy/Lilla/blob/master/week-03/day-04/ex01/src/Counter.java)
      -  [Maping values](https://github.com/greenfox-academy/Lilla/blob/master/week-06/day-02/ex03/src/SquaredPos.java)
  -  Use object orientation:
      -  [Create and inherit classes including fields and methods on a given specification](https://github.com/greenfox-academy/Lilla/blob/master/week-06/zoo/src/main/java/animals/Bird.java)
      -  Understanding the difference between classes and objects
      -  Instantiating and using objects
      -  Understanding "this" keyword
- -  Handle [errors](https://github.com/vajdalil/pallida-retake/blob/master/src/main/java/com/greenfoxacademy/retake/controllers/ClothRestController.javaa) and [exceptions]()
+ -  Handle [errors](https://github.com/vajdalil/pallida-retake/blob/master/src/main/java/com/greenfoxacademy/retake/controllers/ClothRestController.java) and exceptions
  -  Determine the output of expressions
  -  Explain their own code
  -  [Write unit tests for functions and methods](https://github.com/vajdalil/corsac-basic-exam/blob/master/mutual-elements/Test/MutualElementsTest.java)
