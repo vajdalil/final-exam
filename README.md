@@ -2,7 +2,7 @@
 
 ## Accomplishments
 
- -  Multiple daily commits on the latest week
+ -  [Multiple daily commits on the latest week](https://github.com/vajdalil)
 
 ## Skills
 
@@ -11,7 +11,7 @@ The student, on their own, is able to:
  -  Use the command line:
      -  Traversing directories
      -  Moving, copying, creating, deleting files
-     -  Passing command line arguments to commands
+     -  [Passing command line arguments to commands](https://github.com/greenfox-academy/vajdalil-todo-app/blob/master/todoApp/src/Main.java)
  -  Use git:
      -  Commit, add, push, pull
      -  Review other's code
@@ -19,16 +19,16 @@ The student, on their own, is able to:
  -  Create variables and methods on a given specification
  -  Use conditions and loops:
      -  [Filtering](https://github.com/vajdalil/corsac-basic-exam/blob/master/mutual-elements/src/MutualElements.java)
-     -  Finding elements or index
-     -  Generating lists
+     -  [Finding elements or index](https://github.com/greenfox-academy/Lilla/blob/master/week-05/game/src/Appearance.java)
+     -  [Generating lists](https://github.com/greenfox-academy/Lilla/blob/master/week-06/day-01/comparable/src/Dominoes.java)
      -  Checking mutiple values and counting
-     -  Maping values
+     -  [Maping values](https://github.com/greenfox-academy/Lilla/blob/master/week-06/day-02/ex03/src/SquaredPos.java)
  -  Use object orientation:
      -  [Create and inherit classes including fields and methods on a given specification](https://github.com/greenfox-academy/Lilla/blob/master/week-06/zoo/src/main/java/animals/Bird.java)
      -  Understanding the difference between classes and objects
      -  Instantiating and using objects
      -  Understanding "this" keyword
- -  Handle errors and exceptions
+ -  Handle [errors](https://github.com/vajdalil/pallida-retake/blob/master/src/main/java/com/greenfoxacademy/retake/controllers/ClothRestController.javaa) and [exceptions]()
  -  Determine the output of expressions
  -  Explain their own code
  -  [Write unit tests for functions and methods](https://github.com/vajdalil/corsac-basic-exam/blob/master/mutual-elements/Test/MutualElementsTest.java)
@@ -47,7 +47,7 @@ The student, on their own, is able to:
 - understanding the syntax
 - able to write simple custom quaries
 
-## Build tool
+## [Build tool](https://github.com/greenfox-academy/huli-kalendaryo-backend/blob/dev/build.gradle)
 
 - use build tools to build and run your applications e.g. gradle/.Net CLI 
 - dependency definition
@@ -123,12 +123,12 @@ The student, on their own, is able to:
 
 The student, on their own, is able to:
  -  Use git:
-     -  Resolving a simple merge conflict
-     -  Creating a pull request
+     -  [Resolving a simple merge conflict](https://github.com/greenfox-academy/huli-kalendaryo-backend/pull/109/commits/b4f41ed091b413fd8fc1b67961f5ee18d7132eb0)
+     -  [Creating a pull request](https://github.com/greenfox-academy/huli-kalendaryo-backend/pull/109)
  -  Understand API documentation
  -  [Understand token based authorization](https://github.com/greenfox-academy/huli-kalendaryo-backend/blob/dev/src/main/java/com/greenfoxacademy/opal/kalendaryo/kalendaryo/service/authorization/AuthorizeKal.java)
  -  [Refactor code:](https://github.com/greenfox-academy/Lilla/tree/master/dojo/tennisClub)
-     -  Create meaningful names for methods, classes and variables
+     -  [Create meaningful names for methods, classes and variables](https://github.com/greenfox-academy/Lilla/blob/master/dojo/tennisClub/src/TennisGame.java)
      -  Split bigger functions to smaller ones
      -  Separate functionalities to different files
      -  Point out code smells
@@ -166,9 +166,9 @@ The student, on their own, is able to:
 ### Mobile
 
  -  Use async structures:
-     -  [Writing functions that are taking and calling callbacks]
+     -  Writing functions that are taking and calling callbacks
  -  Understanding and using mobile framework:
-     -  [Components](), [configuration](), [dependencies](), [extensions]()
+     -  Components, configuration, dependencies, extensions
  -  Designing multiple screens
  -  Handling authorized communication with backend
 
