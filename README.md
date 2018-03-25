@@ -130,11 +130,11 @@ The student, on their own, is able to:
  -  [Refactor code:](https://github.com/greenfox-academy/Lilla/tree/master/dojo/tennisClub)
      -  [Create meaningful names for methods, classes and variables](https://github.com/greenfox-academy/Lilla/blob/master/dojo/tennisClub/src/TennisGame.java)
      -  Split bigger functions to smaller ones
-     -  Separate functionalities to different files
+     -  [Separate functionalities to different files](https://github.com/vajdalil/gallery/tree/master/src/main/java/com/greenfoxacademy/galleryapp/controllers)
      -  Point out code smells
  -  Understand base concept of hosting
  -  Deployment and continuous integration
- -  Using design patterns
+ -  [Using design patterns](https://github.com/vajdalil/pallida-retake/tree/master/src/main/java/com/greenfoxacademy/retake)
  -  [Integration testing](https://github.com/vajdalil/pallida-retake/blob/master/src/test/java/com/greenfoxacademy/retake/controllers/ClothRestControllerTest.java)
  -  Differentiate between backend and frontend (client) functionality
 
@@ -165,11 +165,11 @@ The student, on their own, is able to:
 
 ### Mobile
 
- -  Use async structures:
+ -  [Use async structures:](https://github.com/greenfox-academy/huli-kalendaryo-android/blob/dev/app/src/main/java/com/greenfox/kalendaryo/SelectCalendarActivity.java)
      -  Writing functions that are taking and calling callbacks
  -  Understanding and using mobile framework:
      -  Components, configuration, dependencies, extensions
- -  Designing multiple screens
+ -  [Designing multiple screens](https://github.com/greenfox-academy/huli-kalendaryo-android/blob/dev/app/src/main/java/com/greenfox/kalendaryo/ChooseAccountActivity.java)
  -  Handling authorized communication with backend
 
 ### DevOps
