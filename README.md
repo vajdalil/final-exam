@@ -53,9 +53,9 @@ The student, on their own, is able to:
 - dependency definition
 - able to restore 3rd party library dependencies
 
-## 3rd party libraries
+## [3rd party libraries](https://github.com/greenfox-academy/huli-kalendaryo-backend/blob/dev/build.gradle)
 
-- [able to add and use libraries](https://github.com/greenfox-academy/huli-kalendaryo-backend/blob/dev/build.gradle)
+- able to add and use libraries
 - find documentation and usage examples
 
 ## Backend Framework
@@ -73,7 +73,7 @@ The student, on their own, is able to:
 
 ## Data persistance
 
-- understanding and usage of basic SQL commands
+- [understanding and usage of basic SQL commands](https://github.com/vajdalil/gallery/blob/master/src/main/java/com/greenfoxacademy/galleryapp/services/ArtistService.java)
   - `select`, `insert`, `update`, `delete`
 - connecting database to backend application
   - [database framework configuration](https://github.com/greenfox-academy/huli-kalendaryo-backend/blob/dev/build.gradle)
