@@ -170,7 +170,7 @@ The student, on their own, is able to:
  -  Understanding and using mobile framework:
      -  Components, configuration, dependencies, extensions
  -  [Designing multiple screens](https://github.com/greenfox-academy/huli-kalendaryo-android/blob/dev/app/src/main/java/com/greenfox/kalendaryo/ChooseAccountActivity.java)
- -  Handling authorized communication with backend
+ -  [Handling authorized communication](https://github.com/greenfox-academy/huli-kalendaryo-android/blob/dev/app/src/main/java/com/greenfox/kalendaryo/LoginActivity.java) with [backend](https://github.com/greenfox-academy/huli-kalendaryo-backend/blob/dev/src/main/java/com/greenfoxacademy/opal/kalendaryo/kalendaryo/service/authorization/AuthorizeKal.java)
 
 ### DevOps
 
