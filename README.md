@@ -41,7 +41,7 @@ The student, on their own, is able to:
 - understanding the difference between interfaces and abstract classes
 - understand when to use interface and when to use super class
 
-## Queries
+## [Queries](https://github.com/vajdalil/pallida-orientation-exam/blob/master/src/main/java/com/greenfoxacademy/exam/repository/CarRepository.java)
 
 - usage of language integrated quaries e.g. LINQ/StreamApi
 - understanding the syntax
