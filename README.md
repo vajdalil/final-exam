@@ -22,7 +22,7 @@ The student, on their own, is able to:
      -  [Finding elements or index](https://github.com/greenfox-academy/Lilla/blob/master/week-05/game/src/Appearance.java)
      -  [Generating lists](https://github.com/greenfox-academy/Lilla/blob/master/week-06/day-01/comparable/src/Dominoes.java)
      -  [Checking mutiple values and counting](https://github.com/greenfox-academy/Lilla/blob/master/week-03/day-04/ex01/src/Counter.java)
-     -  [Maping values](https://github.com/greenfox-academy/Lilla/blob/master/week-06/day-02/ex03/src/SquaredPos.java)
+     -  [Maping values](https://github.com/greenfox-academy/Lilla/blob/master/week-06/day-02/ex03/src/SquaredPos.java)[Hashmap](https://github.com/greenfox-academy/Lilla/blob/master/week-02/day-03/map/ex1/src/HeWillNever.java)
  -  Use object orientation:
      -  [Create and inherit classes including fields and methods on a given specification](https://github.com/greenfox-academy/Lilla/blob/master/week-06/zoo/src/main/java/animals/Bird.java)
      -  Understanding the difference between classes and objects
